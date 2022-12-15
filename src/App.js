@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={"https://tse1.mm.bing.net/th?id=OIP.L6BkGDB_DFHXqifR9Zb1cQHaH8&pid=Api&P=0"} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          .PIALA DUNIA KALI INI DI MENANGKAN FRANCE AAMIIN
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://id.wikipedia.org/wiki/Piala_Dunia_FIFA_2022"
           target="_blank"
           rel="noopener noreferrer"
         >
